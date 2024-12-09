@@ -1,5 +1,70 @@
 body{
-    background-color: slateblue;
-    text-decoration-color:aliceblue;
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
 
+header{
+    background-color: rgb(188, 184, 217);
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+h1{
+    font-size:60px;
+}
+
+button{
+    border-radius:2px;
+    font-size:20px;
+    padding:3px;
+    margin:3px;
+}
+
+
+
+.section-one{
+    background-color:rgb(145, 192, 222);
+    height:400px;
+    
+    
+}
+
+h2{
+    font-size:40px;
+}
+
+.section-three{
+    background-color:rgb(145, 192, 222);
+    height:700px;
+}
+
+h3{
+    font-size:40px;
+}
+
+.section-four{
+    background-color:rgb(145, 192, 222);
+    height: 500px;
+}
+
+h4{
+    font-size:40px;
+}
+
+.section-five{
+    background-color:rgb(145, 192, 222);
+    height:800px;
+}
+
+h5{
+    font-size:40px;
+}
+
+.section-six{
+    background-color:rgb(145, 192, 222);
+    height:500px;
+}
+
+h6{
+    font-size:40px;
 }
