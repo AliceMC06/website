@@ -44,7 +44,7 @@ h3{
 
 .section-four{
     background-color:rgb(255, 255, 255);
-    height: 500px;
+    height: 700px;
 }
 
 h4{
@@ -67,4 +67,9 @@ h5{
 
 h6{
     font-size:40px;
+}
+
+.section-seven{
+    background-color:rgb(255,255,255);
+    height:1200px;
 }
