@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(71, 136, 96);
     color:rgb(0, 0, 0);
 }
 
 header{
-    background-color: rgb(188, 184, 217);
+    background-color: rgb(202, 202, 202);
     padding: 20px 0px 20px 0px;
     text-align: center;
 }
@@ -23,7 +23,7 @@ button{
 
 
 .section-one{
-    background-color:rgb(145, 192, 222);
+    background-color:rgb(255, 255, 255);
     height:400px;
     
     
@@ -34,7 +34,7 @@ h2{
 }
 
 .section-three{
-    background-color:rgb(145, 192, 222);
+    background-color:rgb(255, 255, 255);
     height:700px;
 }
 
@@ -43,7 +43,7 @@ h3{
 }
 
 .section-four{
-    background-color:rgb(145, 192, 222);
+    background-color:rgb(255, 255, 255);
     height: 500px;
 }
 
@@ -52,7 +52,7 @@ h4{
 }
 
 .section-five{
-    background-color:rgb(145, 192, 222);
+    background-color:rgb(255, 255, 255);
     height:800px;
 }
 
@@ -61,7 +61,7 @@ h5{
 }
 
 .section-six{
-    background-color:rgb(145, 192, 222);
+    background-color:rgb(255, 255, 255);
     height:500px;
 }
 
