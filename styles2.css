@@ -20,7 +20,13 @@ button{
     margin:3px;
 }
 
-.Alignment-poster.png{
-    width: 20%;
+.section-seven{
+    background-color:rgb(80, 80, 80);
+    height: 2600px;
+}
+
+img {
+    width: 200px;
+    height: auto;
 }
     
