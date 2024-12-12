@@ -123,8 +123,11 @@ h5{
 .section-six{
     background-color:rgb(255, 255, 255);
     height:500px;
+    
 }
-
+p{
+    margin: 2%;
+}
 h6{
     font-size:40px;
 }
