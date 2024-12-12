@@ -75,7 +75,28 @@ h3{
 
 .section-four{
     background-color:rgb(255, 255, 255);
-    height: 700px;
+    height: 400px;
+}
+
+.section-seven{
+    background-color:rgb(255, 255, 255);
+    height: 400px;
+}
+
+.coding1 {
+    width: 500px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+    padding: 0 20px 0 20px;
+}
+
+.coding2 {
+    width: 500px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+    padding: 0 20px 0 20px;
 }
 
 h4{
@@ -100,10 +121,7 @@ h6{
     font-size:40px;
 }
 
-.section-seven{
-    background-color:rgb(255,255,255);
-    height:1200px;
-}
+
 
 /*
 img {
