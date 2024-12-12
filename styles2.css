@@ -22,11 +22,37 @@ button{
 
 .section-seven{
     background-color:rgb(80, 80, 80);
-    height: 2600px;
+    height: 500px;
+   color:aliceblue;
+   text-wrap:wrap;
+   
 }
 
 img {
-    width: 200px;
+    width: 300px;
     height: auto;
+    align-items:center;
+    margin-top: 5%;
+    margin-left: 5%;
+    float: left;
+
 }
-    
+.section-eight{
+    background-color:rgb(80, 80, 80);
+    height: 500px;
+    color:aliceblue;
+    text-wrap:wrap;
+}
+.section-nine{
+    background-color:rgb(80, 80, 80);
+    height: 500px;
+    color:aliceblue;
+    text-wrap:wrap;
+}
+.section-ten{
+    background-color:rgb(80, 80, 80);
+    height: 500px;
+    color:aliceblue;
+    text-wrap:wrap;
+}
+
