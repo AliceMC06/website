@@ -31,15 +31,27 @@ button:hover {
 .section-one{
     background-color:rgb(255, 255, 255);
     height:400px;
-    margin-right: 2%;
-
+    
+    text-wrap:wrap;
+    
+    
 }
 
+
+
 .portrait{
+    /*
     margin-top: 25.5%;
     width: 40%;
     height:70%;
     scale: 70%;
+*/
+    width: 300px;
+    height: auto;
+    align-items:center;
+    margin-top: 0.3%;
+    margin-left: 5%;
+    float: left;
 }
 
 
@@ -93,15 +105,12 @@ h6{
     height:1200px;
 }
 
+/*
 img {
-    width: 300px;
-    height: auto;
-    align-items:center;
-    margin-top: 0.3%;
-    margin-left: 5%;
-    float: left;
+   
 
 }
+  */  
 
 HTML CSS JSResult Skip Results Iframe
 EDIT ON
@@ -130,6 +139,8 @@ EDIT ON
   width: 500px;
   text-align: center;
   overflow: hidden;
+  float: left;
+  padding: 0 20px 0 20px;
 }
 
 
@@ -180,7 +191,9 @@ EDIT ON
 .author-info a {
   color: white;
 }
-img {
+
+
+.slide-image{
   object-fit: cover;
   position: absolute;
   top: 0;
