@@ -25,7 +25,7 @@ button{
     height: 500px;
    color:aliceblue;
    text-wrap:wrap;
-   
+   font-family: Copperplate, Papyrus, fantasy;
    
 }
 
@@ -50,17 +50,20 @@ margin-top: 2.5%;
     height: 500px;
     color:aliceblue;
     text-wrap:wrap;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 .section-nine{
     background-color:rgb(80, 80, 80);
     height: 500px;
     color:aliceblue;
     text-wrap:wrap;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 .section-ten{
     background-color:rgb(80, 80, 80);
     height: 500px;
     color:aliceblue;
     text-wrap:wrap;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
