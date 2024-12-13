@@ -7,10 +7,12 @@ header{
     background-color: rgb(202, 202, 202);
     padding: 20px 0px 20px 0px;
     text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 h1{
     font-size:60px;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 button a {
@@ -19,7 +21,7 @@ button a {
   text-shadow: 1px 1px black;
   display: block;
   text-align: center;
-  
+  font-family: Copperplate, Papyrus, fantasy;
   
 }
 
@@ -30,7 +32,7 @@ button{
     padding:20px;
     margin:3px;
     text-shadow: 1px 1px black;
-    
+    font-family: Copperplate, Papyrus, fantasy;
   
     
 }
@@ -45,7 +47,7 @@ button:hover {
 .section-one{
     background-color:rgb(255, 255, 255);
     height:400px;
-    
+    font-family: Copperplate, Papyrus, fantasy;
     text-wrap:wrap;
     
     
@@ -74,6 +76,7 @@ button:hover {
 
 h2{
     font-size:40px;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 .section-three{
@@ -86,21 +89,28 @@ h2{
 
 h3{
     font-size:40px;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 .section-four{
     background-color:rgb(255, 255, 255);
     height: 500px;
     margin-bottom: 0%;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 .section-seven{
     background-color:rgb(255, 255, 255);
     height: 400px;
     margin-top: 0%;
+    font-family: Copperplate, Papyrus, fantasy;
     
     
-    
+}
+
+h8{
+  font-size: 20px;
+  font-family: Copperplate, Papyrus, fantasy;
 }
 
 .coding1 {
@@ -122,11 +132,13 @@ h3{
 
 h4{
     font-size:40px;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 .section-five{
     background-color:rgb(255, 255, 255);
     height:800px;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 .workflow {
@@ -139,21 +151,28 @@ h4{
 
 h5{
     font-size:40px;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 .section-six{
     background-color:rgb(255, 255, 255);
     height:500px;
+    font-family: Copperplate, Papyrus, fantasy;
     
 }
 p{
     margin:2%;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 h6{
     font-size:40px;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
-
+h7{
+  font-size: 20px;
+  font-family: Copperplate, Papyrus, fantasy;
+}
 
 /*
 img {
