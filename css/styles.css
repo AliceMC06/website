@@ -13,12 +13,26 @@ h1{
     font-size:60px;
 }
 
+button a {
+  text-decoration: none;
+  color: inherit;
+  text-shadow: 1px 1px black;
+  display: block;
+  text-align: center;
+  
+  
+}
+
 button{
     color:rgb(209, 37, 46);
     border-radius:2px;
     font-size:20px;
-    padding:3px;
+    padding:20px;
     margin:3px;
+    text-shadow: 1px 1px black;
+    
+  
+    
 }
 
 button:hover {
@@ -240,8 +254,8 @@ EDIT ON
 
 .slider > a {
   display: inline-flex;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 3rem;
+  height: 3rem;
   background: white;
   text-decoration: none;
   align-items: center;
